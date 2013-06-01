@@ -15,7 +15,7 @@
 	<div class="navbar navbar-public navbar-fixed-top navbar-inverse">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">Laravel Gallery</a>
+				<a class="brand" href="/">Users Template</a>
 				<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
 				<a class="btn btn-navbar martop15" data-toggle="collapse" data-target=".nav-collapse">
 					<span class="icon-bar"></span>
