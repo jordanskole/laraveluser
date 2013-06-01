@@ -1,0 +1,167 @@
+/* our top padding styles */
+
+.top5 {
+	padding-top: 5px;
+}
+
+.top10 {
+	padding-top: 10px;
+}
+
+.top20 {
+	padding-top: 20px;
+}
+
+.top30 {
+	padding-top: 30px;
+}
+
+.top40 {
+	padding-top: 40px;
+}
+
+.top60 {
+	padding-top: 60px;
+}
+
+.top80 {
+	padding-top: 80px;
+}
+
+.top100 {
+	padding-top: 100px;
+}
+
+/* our margin top styles */
+
+.martop5 {
+	margin-top: 5px;
+}
+
+.martop10 {
+	margin-top: 10px;
+}
+
+.martop20 {
+	margin-top: 20px;
+}
+
+.martop30 {
+	margin-top: 30px;
+}
+
+.martop40 {
+	margin-top: 40px;
+}
+
+.martop60 {
+	margin-top: 60px;
+}
+
+.martop80 {
+	margin-top: 80px;
+}
+
+.martop100 {
+	margin-top: 100px;
+}
+
+/* setup our default padding rules
+don't mess with margin's because it will 
+screw with bootstrap */
+
+.pad0 {
+	padding: 0px; /* like a clearfix */
+}
+
+.pad5 {
+	padding: 5px;
+}
+
+.pad10 {
+	padding: 10px;
+}
+
+.pad15 {
+	padding: 15px;
+}
+
+.pad20 {
+	padding: 20px;
+}
+
+.pad30 {
+	padding: 30px;
+}
+
+.pad40 {
+	padding: 40px;
+}
+
+.pad60 {
+	padding: 60px;
+}
+
+.pad80 {
+	padding: 80px;
+}
+
+.pad100 { /* i dunno when I would use this? */
+	padding: 100px;
+}
+
+.margin0 {
+	margin: 0px; /* like a clearfix */
+}
+
+.margin5 {
+	margin: 5px;
+}
+
+.margin10 {
+	margin: 10px;
+}
+
+.margin15 {
+	margin: 15px;
+}
+
+.margin20 {
+	margin: 20px;
+}
+
+.margin30 {
+	margin: 30px;
+}
+
+.margin40 {
+	margin: 40px;
+}
+
+.margin60 {
+	margin: 60px;
+}
+
+.margin80 {
+	margin: 80px;
+}
+
+.margin100 { /* i dunno when I would use this? */
+	padding: 100px;
+}
+
+
+/* setup our text align to supplement 
+bootstraps pull-left & pull right */
+
+.text-right {
+	text-align: right;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-left {
+	text-align: left;
+}
